@@ -1,0 +1,12 @@
+
+/* 1.some favourite links */
+.some-favorites li {
+    list-style: none;
+  }
+  /* =======================================*/
+
+  /* Wild and wacky*/
+  .author {
+      font-size: 10pt;
+      font-weight: bold;
+  }
